@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ersovpavel/Desktop/fix game",
+      "program": "/Users/ersovpavel/Desktop/fix game/build/Debug/outDebug"
+    }
+  ]
+}
