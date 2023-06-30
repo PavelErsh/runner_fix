@@ -1,0 +1,1 @@
+g++ Arrow.cpp Arrow.h Camera.cpp Camera.h Engine.cpp Engine.h Entity.cpp Entity.h Floor.cpp Floor.h Hp.h KeyPressedAction.cpp KeyPressedAction.h main.cpp Map.cpp Map.h Money.cpp Money.h MoveEntity.cpp MoveEntity.h Player.cpp Player.h Ranger.cpp Ranger.h Wall.cpp Wall.h    -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
